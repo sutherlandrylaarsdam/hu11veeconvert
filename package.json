@@ -1,0 +1,29 @@
+{
+  "name": "hu11veeconvert",
+  "version": "1.0.0",
+  "description": "hu11veeconvert",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sutherlandrylaarsdam/hu11veeconvert.git"
+  },
+  "keywords": [
+    "hu11veeconvert",
+    "ethereum",
+    "gas",
+    "eth",
+    "crypto"
+  ],
+  "author": "sutherlandrylaarsdam",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sutherlandrylaarsdam/hu11veeconvert/issues"
+  },
+  "homepage": "https://github.com/sutherlandrylaarsdam/hu11veeconvert#readme",
+  "dependencies": {
+    "web3": "^1.5.2"
+  }
+}
